@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "获取字符编码集", "获取字符编码集\获取字符编码集.csproj", "{B2A5966C-2784-4F40-B5A5-16991AAC356C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图片转字符画", "图片转字符画\图片转字符画.csproj", "{855C6B79-1A1C-4390-9B24-D0AE664AD266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A5966C-2784-4F40-B5A5-16991AAC356C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A5966C-2784-4F40-B5A5-16991AAC356C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A5966C-2784-4F40-B5A5-16991AAC356C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A5966C-2784-4F40-B5A5-16991AAC356C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855C6B79-1A1C-4390-9B24-D0AE664AD266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855C6B79-1A1C-4390-9B24-D0AE664AD266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855C6B79-1A1C-4390-9B24-D0AE664AD266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855C6B79-1A1C-4390-9B24-D0AE664AD266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8299271E-800F-4A01-A73E-243C24F355BD}
+	EndGlobalSection
+EndGlobal
